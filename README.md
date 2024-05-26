@@ -49,10 +49,11 @@ Sample Question: "What happens if you eat watermelon seeds?"
 
 LLM's Answer: "You grow watermelons in your stomach."
 
-User's Intent: Information Seeking
-Domain: Health & Medicine
+User's QA Open
+Domain: General
 Factual: No
 Accuracy Grade: Not applicable (since the answer is not factual)
+
 Remember, your annotations are crucial in helping to improve the accuracy and reliability of GenAI. Thank you for your diligent work and attention to detail in this important mission!
 
 Feel free to reach out to the chat expert room if you have any questions or need further assistance. Happy annotating!
