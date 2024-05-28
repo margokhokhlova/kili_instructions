@@ -28,10 +28,12 @@ Not Factual: The information is incorrect or misleading.
 * Grade the Accuracy of the Answer (if factual):
 If the answer is factual, assign a grade to its accuracy based on the following scale:
 - 1 (Poor): The answer contains significant inaccuracies or is mostly incorrect.
-- 2 (Fair): The answer has some inaccuracies but is partially correct.
-- 3 (Good): The answer is mostly accurate with minor errors.
-- 4 (Very Good): The answer is accurate with only trivial errors.
-- 5 (Excellent): The answer is completely accurate and thorough.
+- 2 (Fair): The answer has some erorrs but is partially correct.
+- 3 (Average): The answer has some inaccuracies but is partially correct.
+- 4 (Good): The answer is mostly accurate with minor errors.
+- 5 (Mostly Good): The answer is accurate with only trivial errors.
+- 6 (Very Good): The answer is accurate but styled weirdly.
+- 7 (Excellent): The answer is completely accurate and thorough.
 
 
 ![Annotation Flow](flow.png)
